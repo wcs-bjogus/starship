@@ -10,7 +10,7 @@ I am using [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/rel
 
 
 # Installation Starship
-* Go to https://starship.rs/ and download starship for our os. 
+* Go to https://starship.rs/ and download starship for our os.  (Repeat in WSL)
 
 * Install starship.toml file. 
 In windows and linux create `.config` folder in your home folder and save `starship.toml` file.
